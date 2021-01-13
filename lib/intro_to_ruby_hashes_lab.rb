@@ -3,14 +3,14 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {
+  {
     :favorite_dog => "Obie",
     :favorite_person => "Jacki"
   }
 end
 
 def pioneer
-
+  
 end
 
 
